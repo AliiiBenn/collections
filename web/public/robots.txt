@@ -1,3 +1,0 @@
-# @deessejs/collections
-User-agent: *
-Allow: /
